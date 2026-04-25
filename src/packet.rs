@@ -41,7 +41,7 @@ impl Ipv7Header {
             source: [0; 8],
             destination: [0; 8],
             trust_reputation: 128, // Medium trust
-            reserved: [0; 6],
+            reserved: [0; 15],
         }
     }
 
