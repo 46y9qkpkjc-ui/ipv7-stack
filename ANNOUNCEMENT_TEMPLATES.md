@@ -722,7 +722,7 @@ Would be grateful for your thoughts. Happy to discuss further!
 
 Best regards,
 Arunkumar Subbiah
-ak.nadar@apexadversary.com
+arunkumar.subbiah@apexadversary.com
 
 GitHub: https://github.com/46y9qkpkjc-ui
 ```

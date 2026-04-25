@@ -101,7 +101,7 @@ Planned for future releases. See [IMPLEMENTATION-GUIDE.md](./IMPLEMENTATION-GUID
 ## Author & Attribution
 
 **Author**: Arunkumar Subbiah  
-**Email**: ak.nadar@apexadversary.com  
+**Email**: arunkumar.subbiah@apexadversary.com  
 **ORCID**: (if applicable)  
 **License**: MIT
 

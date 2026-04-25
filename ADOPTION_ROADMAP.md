@@ -247,7 +247,7 @@ Would appreciate your guidance on next steps.
 
 Best regards,
 Arunkumar Subbiah
-ak.nadar@apexadversary.com
+arunkumar.subbiah@apexadversary.com
 ```
 
 ### Step 2.4: Attend IETF Meetings (Optional but Valuable)
@@ -577,7 +577,7 @@ Q4 2026 onwards:  🎯 Kernel integration progress
 **Your Project**:
 - GitHub: https://github.com/46y9qkpkjc-ui/ipv7-stack
 - IETF Draft: https://datatracker.ietf.org/doc/draft-subbiah-ipv7-00/
-- Email: ak.nadar@apexadversary.com
+- Email: arunkumar.subbiah@apexadversary.com
 
 **Key Documentation**:
 - README.md - Quick start

@@ -6,7 +6,7 @@
 
 ### Reporting Process
 
-1. **Email**: Send security reports to ak.nadar@apexadversary.com
+1. **Email**: Send security reports to arunkumar.subbiah@apexadversary.com
 2. **Subject**: Start with `[SECURITY]` for easy filtering
 3. **Content**: Include:
    - Description of the vulnerability

@@ -245,7 +245,7 @@ See CONTRIBUTING.md for detailed guidelines.
 ## 👥 Community
 
 - **Maintainer**: Arunkumar Subbiah (@46y9qkpkjc-ui)
-- **Email**: ak.nadar@apexadversary.com
+- **Email**: arunkumar.subbiah@apexadversary.com
 - **GitHub Issues**: https://github.com/46y9qkpkjc-ui/ipv7-stack/issues
 
 ## 🙏 Get Involved

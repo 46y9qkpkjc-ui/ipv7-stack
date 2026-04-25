@@ -286,7 +286,7 @@ docker run -p 8080:8080 ipv7-stack:latest
 ### Document Information
 
 - **Title**: IPv7: Identity-Centric Network Protocol for Security, Proxy Mitigation, and Operability
-- **Author**: Arunkumar Subbiah (ak.nadar@apexadversary.com)
+- **Author**: Arunkumar Subbiah (arunkumar.subbiah@apexadversary.com)
 - **Category**: Standards Track
 - **Status**: Submitted (April 25, 2026)
 - **URL**: https://datatracker.ietf.org/doc/draft-subbiah-ipv7/
@@ -354,7 +354,7 @@ docker run -p 8080:8080 ipv7-stack:latest
 
 - **GitHub Issues**: https://github.com/46y9qkpkjc-ui/ipv7-stack/issues
 - **GitHub Discussions**: https://github.com/46y9qkpkjc-ui/ipv7-stack/discussions
-- **Email**: ak.nadar@apexadversary.com
+- **Email**: arunkumar.subbiah@apexadversary.com
 - **IETF List**: ipv7-dev@ietf.org (when available)
 
 ### Contributing

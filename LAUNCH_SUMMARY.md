@@ -285,7 +285,7 @@ Execute **IETF_OUTREACH_GUIDE.md**:
 ### Your Projects
 - **GitHub Repo**: https://github.com/46y9qkpkjc-ui/ipv7-stack
 - **IETF Draft**: https://datatracker.ietf.org/doc/draft-subbiah-ipv7/
-- **Email**: ak.nadar@apexadversary.com
+- **Email**: arunkumar.subbiah@apexadversary.com
 
 ### Announcement Platforms
 - **Hacker News**: https://news.ycombinator.com/submit

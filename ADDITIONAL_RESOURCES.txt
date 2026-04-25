@@ -63,4 +63,4 @@ webpage https://github.com/46y9qkpkjc-ui/ipv7-stack/blob/main/CONTRIBUTING.md (C
 
 =============================================
 Last Updated: April 26, 2026
-Maintainer: Arunkumar Subbiah (ak.nadar@apexadversary.com)
+Maintainer: Arunkumar Subbiah (arunkumar.subbiah@apexadversary.com)

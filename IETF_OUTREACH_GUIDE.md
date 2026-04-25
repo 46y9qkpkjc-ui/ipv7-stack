@@ -170,7 +170,7 @@ Best regards,
 
 Arunkumar Subbiah
 Independent Contributor
-ak.nadar@apexadversary.com
+arunkumar.subbiah@apexadversary.com
 GitHub: https://github.com/46y9qkpkjc-ui/ipv7-stack
 
 ---
@@ -249,7 +249,7 @@ Thank you for considering this proposal!
 Best regards,
 
 Arunkumar Subbiah
-ak.nadar@apexadversary.com
+arunkumar.subbiah@apexadversary.com
 https://datatracker.ietf.org/doc/draft-subbiah-ipv7/
 ```
 
@@ -313,7 +313,7 @@ Thank you for your guidance!
 Best regards,
 
 Arunkumar Subbiah
-ak.nadar@apexadversary.com
+arunkumar.subbiah@apexadversary.com
 ```
 
 ---
