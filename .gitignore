@@ -56,3 +56,30 @@ npm-debug.log*
 .venv
 venv/
 ENV/
+
+# Test coverage
+coverage/
+*.profraw
+*.profdata
+/coverage_report/
+tarpaulin-report.html
+
+# Documentation
+/docs_build/
+/site/
+
+# OS files
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# GitHub Pages
+.jekyll-cache/
+_site/

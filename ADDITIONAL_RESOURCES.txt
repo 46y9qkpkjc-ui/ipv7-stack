@@ -1,0 +1,66 @@
+IPv7 Stack - Additional Resources Metadata
+Format: tag value (description)
+=========================================
+
+# Repository Information
+github_org https://github.com/46y9qkpkjc-ui (IPv7 Stack GitHub Organization)
+github_repo https://github.com/46y9qkpkjc-ui/ipv7-stack (IPv7 Stack Reference Implementation)
+github_username 46y9qkpkjc-ui (GitHub Username - IPv7 Project Maintainer)
+repo https://github.com/46y9qkpkjc-ui/ipv7-stack (Main Repository - Rust Implementation)
+
+# IETF & Standards
+webpage https://datatracker.ietf.org/doc/draft-subbiah-ipv7/ (IETF Datatracker - IPv7 Draft)
+mailing_list https://mailarchive.ietf.org/arch/ (IETF Mailing List Archive)
+wiki https://github.com/46y9qkpkjc-ui/ipv7-stack/wiki (Project Wiki - Implementation Details)
+
+# Documentation & FAQ
+faq https://github.com/46y9qkpkjc-ui/ipv7-stack/wiki/FAQ (Frequently Asked Questions)
+faq https://github.com/46y9qkpkjc-ui/ipv7-stack/blob/main/README.md#quick-start (Quick Start Guide)
+faq https://github.com/46y9qkpkjc-ui/ipv7-stack/blob/main/IMPLEMENTATION-GUIDE.md (Implementation Guide)
+
+# Communication Channels
+slack https://ipv7-stack.slack.com (IPv7 Stack Slack Workspace - Community Discussion)
+zulip https://ipv7-stack.zulipchat.com (IPv7 Stack Zulip Instance - Async Communication)
+jabber_room xmpp:ipv7-stack@muc.jabber.org (XMPP/Jabber MUC Room)
+jabber_log https://xmpp.example.com/logs/ipv7-stack/ (Jabber Chat Logs Archive)
+
+# Issue Tracking & Project Management
+tracker https://github.com/46y9qkpkjc-ui/ipv7-stack/issues (GitHub Issues Tracker)
+tracker https://github.com/46y9qkpkjc-ui/ipv7-stack/projects (GitHub Projects Board)
+
+# Author Information
+orcid https://orcid.org/0000-0000-0000-0000 (ORCID - Author Research Profile)
+
+# Related Implementations
+related_implementations https://github.com/torvalds/linux (Linux Kernel - Target Platform)
+related_implementations https://github.com/dalek-cryptography/ed25519-dalek (Ed25519 Cryptography Library)
+related_implementations https://github.com/tokio-rs/tokio (Tokio Async Runtime)
+related_implementations https://github.com/tokio-rs/bytes (Bytes Crate - Binary Handling)
+related_implementations https://ebpf.io/ (eBPF Framework - Future Kernel Integration)
+
+# Additional Resources
+webpage https://ipv7-stack.readthedocs.io (ReadTheDocs Documentation - Future)
+webpage https://46y9qkpkjc-ui.github.io/ipv7-stack (GitHub Pages - API Documentation)
+webpage https://crates.io/crates/ipv7-stack (Crates.io - Package Registry)
+
+# Y Combinator (if applicable)
+yc_entry https://www.ycombinator.com/companies/ipv7 (Y Combinator Company Profile - Future)
+yc_impact https://www.ycombinator.com/blog/ (Y Combinator Blog - Potential Press Coverage)
+
+# GitLab (if mirroring)
+gitlab_repo https://gitlab.com/ipv7-stack/ipv7-stack (GitLab Mirror Repository)
+gitlab_username ipv7-stack (GitLab Username)
+
+# Mailing Lists
+mailing_list ipv7-dev@ietf.org (IETF IPv7 Development Mailing List)
+mailing_list_archive https://mailarchive.ietf.org/arch/browse/ipv7/ (IETF IPv7 List Archive)
+
+# Project Links
+webpage https://github.com/46y9qkpkjc-ui/ipv7-stack/blob/main/RESOURCES.md (Resources Documentation)
+webpage https://github.com/46y9qkpkjc-ui/ipv7-stack/blob/main/REPOSITORY.md (Repository Configuration)
+webpage https://github.com/46y9qkpkjc-ui/ipv7-stack/blob/main/SECURITY.md (Security Policy)
+webpage https://github.com/46y9qkpkjc-ui/ipv7-stack/blob/main/CONTRIBUTING.md (Contribution Guidelines)
+
+=============================================
+Last Updated: April 26, 2026
+Maintainer: Arunkumar Subbiah (ak.nadar@apexadversary.com)
