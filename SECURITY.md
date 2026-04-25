@@ -203,7 +203,7 @@ Before using in production, consider:
 
 ## Contact
 
-**Security Contact**: ak.nadar@apexadversary.com  
+**Security Contact**: arunkumar.subbiah@apexadversary.com  
 **GitHub Issues**: https://github.com/46y9qkpkjc-ui/ipv7-stack/security/advisories
 
 ---
