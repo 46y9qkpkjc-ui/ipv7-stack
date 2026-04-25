@@ -4,7 +4,7 @@
 
 use clap::{Parser, Subcommand};
 use ipv7_stack::{
-    packet::Ipv7Packet, reputation::ReputationScope, router::Router, spv::SpvPolicy,
+    packet::Ipv7Packet, router::Router, spv::SpvPolicy,
     vlib::Vlib,
 };
 

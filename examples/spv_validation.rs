@@ -15,7 +15,7 @@ fn main() {
     println!("✓ Created SPV validator");
 
     // Generate keys for a provider
-    let (private_key, public_key) = crypto::generate_keypair();
+    let (_private_key, public_key) = crypto::generate_keypair();
     println!("✓ Generated Ed25519 keypair");
 
     // Register provider

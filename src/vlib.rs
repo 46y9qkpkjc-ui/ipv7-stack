@@ -6,7 +6,6 @@
 //! - Role and policy information
 //! - Origin Signature for cryptographic verification
 
-use crate::crypto::{OriginSignature, EphemeralIdentityToken};
 use crate::error::{Ipv7Error, Result};
 use crate::identity::Identity;
 use serde::{Deserialize, Serialize};
@@ -106,7 +105,7 @@ impl Vlib {
             "eit_default".to_string()
         };
 
-        Identity::new(
+        Ok(Identity::new(
             eit_str,
             self.service.clone(),
             self.location.clone(),
@@ -115,7 +114,7 @@ impl Vlib {
             self.role.clone(),
             format!("{:x}", self.trust_level),
             self.reputation_scope.clone(),
-        )
+        ))
     }
 
     /// Get VLIB size in bytes

@@ -3,10 +3,8 @@
 //! SPV is the core security mechanism of IPv7 that validates the binding
 //! between a packet's asserted provider and the packet origin using cryptography.
 
-use crate::crypto::OriginSignature;
 use crate::error::{Ipv7Error, Result};
 use crate::packet::Ipv7Packet;
-use crate::vlib::Vlib;
 use std::collections::HashMap;
 
 /// Source-Provider Validator
@@ -62,14 +60,14 @@ impl SourceProviderValidator {
     pub fn validate_with_signature(
         &self,
         packet: &Ipv7Packet,
-        data_to_verify: &[u8],
+        _data_to_verify: &[u8],
     ) -> Result<bool> {
         let vlib = packet
             .get_vlib()
             .ok_or_else(|| Ipv7Error::SpvValidationFailed("No VLIB present".into()))?;
 
         // Get provider's public key
-        let public_key = self
+        let _public_key = self
             .provider_keys
             .get(&vlib.provider)
             .ok_or_else(|| {

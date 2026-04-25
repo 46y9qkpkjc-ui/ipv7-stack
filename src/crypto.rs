@@ -1,10 +1,9 @@
 //! Cryptographic operations for IPv7
 
 use crate::error::{Ipv7Error, Result};
-use ed25519_dalek::{Signer, SigningKey, VerifyingKey, Signature};
+use ed25519_dalek::{Signer, SigningKey, VerifyingKey, Signature, Verifier};
 use rand::Rng;
 use sha2::{Sha256, Digest};
-use std::str::FromStr;
 
 /// Origin Signature using Ed25519
 #[derive(Clone, Debug)]

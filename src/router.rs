@@ -7,7 +7,7 @@
 
 use crate::error::Result;
 use crate::packet::Ipv7Packet;
-use crate::reputation::{ReputationDatabase, ReputationScope, TrustLevel};
+use crate::reputation::{ReputationDatabase, ReputationScope};
 use crate::spv::{SourceProviderValidator, SpvPolicy};
 use tracing::{debug, warn};
 

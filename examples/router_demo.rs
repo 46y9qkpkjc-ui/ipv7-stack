@@ -6,7 +6,6 @@
 //! 3. Routing Path (policy enforcement)
 
 use ipv7_stack::packet::Ipv7Packet;
-use ipv7_stack::reputation::ReputationScope;
 use ipv7_stack::router::Router;
 use ipv7_stack::spv::SpvPolicy;
 use ipv7_stack::vlib::Vlib;

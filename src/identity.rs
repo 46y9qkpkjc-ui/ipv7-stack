@@ -3,7 +3,7 @@
 use crate::error::{Ipv7Error, Result};
 use serde::{Deserialize, Serialize};
 
-/// IPv7 Identity format: [EIT]/service.location.provider.tenant.role.trustlevel.reputationscope
+/// IPv7 Identity format: \[EIT\]/service.location.provider.tenant.role.trustlevel.reputationscope
 ///
 /// Example: eit_7f3a9c2b/web.nyc.exampleisp.home.guest.medium.local
 #[derive(Clone, Debug, Serialize, Deserialize, PartialEq, Eq, Hash)]
@@ -50,7 +50,7 @@ impl Identity {
         }
     }
 
-    /// Parse identity from string format: [EIT]/service.location.provider.tenant.role.trustlevel.reputationscope
+    /// Parse identity from string format: \[EIT\]/service.location.provider.tenant.role.trustlevel.reputationscope
     pub fn from_str(identity_str: &str) -> Result<Self> {
         // Split EIT from rest
         let parts: Vec<&str> = identity_str.split('/').collect();

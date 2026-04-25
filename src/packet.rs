@@ -25,8 +25,8 @@ pub struct Ipv7Header {
     destination: [u8; 8],
     /// Trust/Reputation octet
     trust_reputation: u8,
-    /// Reserved (6 bytes)
-    reserved: [u8; 6],
+    /// Reserved (15 bytes) - for future extensions and padding to 40 bytes
+    reserved: [u8; 15],
 }
 
 impl Ipv7Header {
@@ -120,7 +120,7 @@ impl Ipv7Header {
         cursor.copy_to_slice(&mut destination);
 
         let trust_reputation = cursor.get_u8();
-        let mut reserved = [0u8; 6];
+        let mut reserved = [0u8; 15];
         cursor.copy_to_slice(&mut reserved);
 
         Ok((
